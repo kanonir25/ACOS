@@ -1,3 +1,4 @@
 # ACOS
-Architecture of computer and operation systems
+Architecture of computer and operation systems.
+
 Fourth term MIPT
